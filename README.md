@@ -1,8 +1,6 @@
 # golang-arm
 
-This Docker image is based on the official image `golang` and contains   cross compiler for arm.
-
-
+This Docker image is based on the official image `golang` and contains cross compiler for arm.
 
 # Supported tags
 
