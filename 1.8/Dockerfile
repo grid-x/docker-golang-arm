@@ -1,4 +1,4 @@
-FROM golang:1.8.1
+FROM golang:1.8.4
 
 MAINTAINER Philipp Franke <p.franke@gridx.de>
 
